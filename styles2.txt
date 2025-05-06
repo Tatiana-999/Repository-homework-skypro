@@ -1,0 +1,71 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+a {
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Стили для классов */
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    color: pink;
+}
+
+/* Стили для размеров текста */
+    .xxsmall {
+    font-size: 10px;
+}
+    .xsmall {
+    font-size: 20px;
+}
+    .small {
+    font-size: 30px;
+}
+    .medium {
+    font-size: 40px;
+}
+    .large {
+    font-size: 50px;
+}
+    .xlarge {
+    font-size: 60px;
+}
+    .xxlarge {
+    font-size: 70px;
+}
+
+/* Стили для списков */
+ul, ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,49 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+   }
+   
+   a {
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #007bff;
+   }
+   
+   a:hover {
+    text-decoration: underline;
+   }
+   
+   /* Стили для цветов текста */
+   .red {
+    color: red;
+   }
+   
+   .green {
+    color: green;
+   }
+   
+   .blue {
+    color: blue;
+   }
+   
+   /* Стили для начертания текста */
+   .italic {
+    font-style: italic;
+   }
+   
+   .bold {
+    font-weight: bold;
+   }
+   
+   /* Стили для списков */
+   ul, ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+   }
+   
+   li {
+    margin-bottom: 5px;
+   }
